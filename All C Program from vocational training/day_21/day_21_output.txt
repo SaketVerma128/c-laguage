@@ -1,0 +1,58 @@
+bank_structure2.c
+output
+Account Number: 1001
+Account Type: Checking
+Account Holder fist Name : John
+Account Holder Last Name : Paul
+balance :  2100.50
+-- -- -- -- -- --
+ Account Number: 1002
+Account Type: Checking
+Account Holder fist Name : Mary
+Account Holder Last Name : Paul
+balance :  30100.50
+-- -- -- -- -- --
+ Account Number: 6553600
+Account Type:
+Account Holder fist Name : ¿■a
+Account Holder Last Name : c◄Å♠
+balance :  0.00
+-- -- -- -- -- --
+ Account Number: 1971482361
+Account Type: Ç
+Account Holder fist Name : l♀d
+Account Holder Last Name : òoâu∟Cêuⁿ■a
+balance :  1106922008687172400000.00
+-- -- -- -- -- --
+ Account Number: 110039351
+Account Type: α↕@
+Account Holder fist Name : a
+Account Holder Last Name : a
+balance :  0.00
+-- -- -- -- -- --
+
+
+
+
+
+
+complexnumber.c
+output
+enter your first complex number as a + ib
+2 4
+enter your second complex number as a + ib
+3 5
+the sum of your first and second complex number as a + ib is 5.00 + i9.00
+the substraction of your first and second complex number as a + ib is -1.00 + i-1.00
+
+
+
+
+studentDetailWithAddress.c
+output
+The id of student is 1
+The name of student is Saket Verma
+The grade of student is A
+The state of student is Chhattisgarh
+The city of student is Rajnandgaon
+The pincode of student is 491441

@@ -1,0 +1,34 @@
+pointer_arithmatic.c
+output
+6422284 6422288
+6422272 6422280
+
+
+
+pointer_arithmatic2.c
+output
+array using index value
+1 2 3 4
+pointer using index value
+1 2 3 4
+array using ofset value
+1 2 3 4
+pointer using ofset value
+1 2 3 4
+
+
+
+
+
+pointer_arithmatic3.c
+output
+Difference : 250
+
+
+
+
+
+pointer_arithmatic4.c
+output
+Old Value of ptr : 1000
+New Value of ptr : 1004

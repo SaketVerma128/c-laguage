@@ -1,0 +1,41 @@
+a3x3matrix.c
+output
+enter the elements of the matrix 
+2 3 4
+5 6 7
+1 8 9
+the elements of the matrix are 
+2 3 4 5 6 7 1 8 9
+
+
+
+
+comparisonwithpointer.c
+output
+Enter the first string: saket 
+enter the second string: saket
+there is no difference between the two strings
+
+
+
+
+factorial_piramid_palindrom.c
+output
+Enter the number you want to find factorial
+10
+The factorial of 10 is 3628800
+
+
+enter the size of piramid     
+5
+             * 
+          *  *  * 
+       *  *  *  *  *       
+    *  *  *  *  *  *  *    
+ *  *  *  *  *  *  *  *  * 
+
+
+
+Enter a string to check if it is a palindrome
+saket
+string is not a palindrome

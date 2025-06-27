@@ -1,0 +1,106 @@
+arr2_using_pointer.c
+output
+0061FF10 1
+0061FF14 2
+0061FF18 3
+
+
+
+
+
+arrUsingPointer.c
+output
+Value of var[0] = 10
+Value of var[1] = 100
+Value of var[2] = 200
+
+
+
+
+largest_element_Dynamic_memory.c
+output
+enter the number of elements in the array
+4
+enter the elements of the array
+1
+2
+3
+4
+the entered values are:
+1
+2
+3
+4
+the largest element in the array is 4
+
+
+
+
+
+marks_Dynamic_memory.c
+output
+Enter the number of subjects: 5
+Enter the marks of subject 1: 34
+Enter the marks of subject 2: 58
+Enter the marks of subject 3: 12
+Enter the marks of subject 4: 3
+Enter the marks of subject 5: 67
+printing marks of all subjects
+marks of subject 1: 34
+marks of subject 2: 58
+marks of subject 3: 12
+marks of subject 4: 3
+marks of subject 5: 67
+
+
+
+
+
+matrix_sum_dynamic_memory.c
+output
+enter the size of 1d matrix
+5
+first 1d matrix
+enter the value for element A[1] 34
+enter the value for element A[2] 12
+enter the value for element A[3] 56
+enter the value for element A[4] 23                         
+enter the value for element A[5] 42
+second 1d matrix
+enter the value for element B[1] 32
+enter the value for element B[2] 54
+enter the value for element B[3] 67
+enter the value for element B[4] 89
+enter the value for element B[5] 12
+the sum of two 1d matrix (A+B) is C
+C[1] = 66
+C[2] = 66
+C[3] = 123
+C[4] = 112
+C[5] = 54
+
+
+
+
+
+prime_arr_Dynamic_memory.c
+output
+enter the number till you want array of prime number
+50
+All the prime numbers upto 50 is listed below
+[ 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 ]
+the total number or prime number is 15
+
+
+
+
+
+romanNumberUsingPointer.c
+output
+Enter the decimal numbers in the range 1 to 100:
+57
+The equivalent roman is lvii
+
+
+
+

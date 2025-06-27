@@ -1,0 +1,7 @@
+function.c
+output
+Sum of 10 and 20 is: 30
+goodmorning:
+Hello, saket! 
+Returned number is: 10 
+morning

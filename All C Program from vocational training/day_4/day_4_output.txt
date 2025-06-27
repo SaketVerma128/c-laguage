@@ -1,0 +1,35 @@
+bitwise.c
+output
+answer = 86 
+answer = 4  
+answer = 82 
+answer = -71
+answer = 280
+answer = 17 
+
+
+
+
+
+increment_decrement.c
+output
+enter a value
+4
+a=5     n=4
+a=6     n=6
+a=5     n=6
+a=4     n=4
+
+
+
+
+
+logical.c
+output
+enter marks
+60
+enter 2 int values
+3 6
+marks>=90 && marks<=100: 0
+a>=b || b>=a=1
+!a=0

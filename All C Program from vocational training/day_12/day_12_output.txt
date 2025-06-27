@@ -1,0 +1,22 @@
+getput.c
+output
+enter your full name
+saket verma
+your name is saket verma
+
+
+
+
+sectionentry.c
+output
+enter your section
+saket
+the section you entered is s
+
+
+
+
+str_concatinate.c
+output
+Concatenated String: Hello World
+Length of str1: 11

@@ -1,0 +1,89 @@
+arithmatic.c
+output
+enter 2 integer values
+3 6
+addition 3/6=9
+subtraction 3/6=-3
+modulus 3/6=3
+multipication 3/6=18
+division 3/6=0
+
+
+
+asignment.c
+output
+enter a,n values
+3 5
+a=103
+a=83
+a=498
+a=83
+a=3
+
+
+
+
+comparison.c
+output
+enter a,b
+1 3
+1<3=1
+1<=3=1
+1>3=0
+1>=3=0
+1==3=0
+
+
+
+
+dailytask3rdjune.c
+output
+enter 2 integer values
+3 5
+
+
+addition of 3 and 5 = 8
+subtraction of 3 and 5 = -2
+modulus of 3 and 5 = 3
+multipication of 3 and 5 = 15
+division of 3 and 5 = 0
+
+
+i am using the value of a and b, we entered before
+Here 0 = false and 1 =true
+3 > 5 = 0
+3 < 5 = 1
+3 >= 5 = 0
+3 <= 5 = 1
+3 == 5 = 0
+3 != 5 = 1
+
+
+tell your age
+18
+you are able to drive a vehical '1'
+the result will be true if a>=b || b>=a = '1'
+This will alweys be true
+if 'a' was a non zero it will give zero = '0'
+
+
+enter the value in which you want to perform compound assignment operation
+4
+29 += 25 = 29
+4 -= 25 = 4
+100 *= 25 = 100
+4 /= 25 = 4
+4 ''= 25 = 4
+
+
+incrementation of 5 is 6
+decrementation of 5 is 5
+
+
+5 is greater than 3
+
+
+The size of int data type is 4 bytes
+The size of float data type is 4 bytes
+The size of double data type is 8 bytes
+The size of char data type is 1 bytes

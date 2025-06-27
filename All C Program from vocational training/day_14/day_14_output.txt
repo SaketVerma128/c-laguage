@@ -1,0 +1,23 @@
+addfunction.c
+outputEnter the value you want to add
+45
+76
+the sum of 45 and 76 is 121 
+
+
+
+
+fibonachi.c
+output
+enter the number for fibonachi series
+10
+the sum of fibonachi series is 55
+
+
+
+swapfunction.c
+output
+Enter the value of a and b: 23
+45
+the value of a = 23 and b = 45
+After swap the value of a = 45 and b = 23

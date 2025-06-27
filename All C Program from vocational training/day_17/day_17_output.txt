@@ -1,0 +1,26 @@
+maximum_average_pointer.c
+output
+enter the 10 values of array
+54
+43
+32
+12
+76
+87
+09
+90
+87
+62
+the maximum value in the array is 90
+the average of the array is 55
+
+
+
+
+
+swapfunction.c
+output
+Enter the value of a and b: 12
+54
+the value of a = 12 and b = 54
+After swap the value of a = 54 and b = 12

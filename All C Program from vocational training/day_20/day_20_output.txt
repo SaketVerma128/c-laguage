@@ -1,0 +1,41 @@
+bank.c
+output
+Account Number: 1001
+Account Type: Checking
+Account Holder Name: John Paul  
+Balance: 2100.50
+---------------------
+Account Number: 1002
+Account Type: Savings
+Account Holder Name: Saket Verma
+Balance: 100000.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A        
+Balance: 0.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+---------------------
+Account Number: 0
+Account Type: N/A
+Account Holder Name: N/A
+Balance: 0.00
+---------------------
+
+
+
+mystrlen.c
+output
+Enter a string: this is a test string to check length 
+33
+
+
+
+strcopyusingpointer.c
+output
+Enter a string: test string
+test string
